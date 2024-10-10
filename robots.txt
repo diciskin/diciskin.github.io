@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://diciskin.github.io/sitemap.html.gz
+Sitemap: https://diciskin.github.io/app/sitemap.html.gz
+Sitemap: https://diciskin.github.io/assets/sitemap.html.gz
+Sitemap: https://diciskin.github.io/css/sitemap.html.gz
+Sitemap: https://diciskin.github.io/includes/sitemap.html.gz
+Sitemap: https://diciskin.github.io/item/sitemap.html.gz
+Sitemap: https://diciskin.github.io/src/sitemap.html.gz
